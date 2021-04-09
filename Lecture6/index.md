@@ -3,12 +3,20 @@ Teacher: Chloe Braud (IRIT)
 
 ### Contents
 
-* What is NLP? Challenges : Syntactic and semantic analysis, disambiguation
-* Text classification & text generation (Sentiment analysis, machine translation, question answering)
-* Tokenization
-* Word and sentence embeddings
-* Datasets and unsupervized learning
-* Application : NLTK & Word2Vec 
+* What is NLP? 
+* Fundamentals of linguistics: the main levels of linguistic analysis
+* Fundamentals of Natural Language Processing: preprocessing and linguistic processing
+* Hands-on NLP: learning from text data
+* Applications and learning scenarios
+* To go further: limits and challenges
+* Application : Spacy & Scikit-Learn & Word2Vec 
+
+## Slides
+
+Download the slides [here](https://drive.google.com/file/d/1LpQWg6-d7EjNNNjz-ipnh-JStp89All9/view?usp=sharing)
+
+### Notebook
+Access the collab notebook [here](https://colab.research.google.com/drive/1HVrMVb_16kIa_YbWormcwNWX8r_ivf5B?usp=sharing)
 
 
 ### Prerequisites:
